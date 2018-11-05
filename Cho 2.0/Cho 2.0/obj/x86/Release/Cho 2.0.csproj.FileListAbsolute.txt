@@ -1,0 +1,17 @@
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.Defeat.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.Modos.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.GameOver.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.Inicio.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.Multiplayer.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.Form1.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.Nivel_2.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.Nivel_3.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.Nivel_4.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.Properties.Resources.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.VictoriaLv3.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.Victory1.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.Victory2.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho_2._0.VictoryMultijugador.resources
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho 2.0.csproj.GenerateResource.Cache
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho 2.0.exe
+D:\Cho 2.0\Cho 2.0\obj\x86\Release\Cho 2.0.pdb

@@ -1,0 +1,40 @@
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\bin\Debug\Cho 2.0.exe
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\bin\Debug\Cho 2.0.pdb
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Defeat.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Modos.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.GameOver.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Inicio.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Multiplayer.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Form1.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Nivel_2.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Nivel_3.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Nivel_4.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Properties.Resources.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.VictoriaLv3.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Victory1.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Victory2.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.VictoryMultijugador.resources
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho 2.0.csproj.GenerateResource.Cache
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho 2.0.exe
+C:\Users\Dell XPS\Documents\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho 2.0.pdb
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho 2.0.exe
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho 2.0.pdb
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\bin\Debug\Cho 2.0.exe
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\bin\Debug\Cho 2.0.pdb
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho 2.0.csprojResolveAssemblyReference.cache
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Defeat.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Modos.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.GameOver.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Inicio.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Multiplayer.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Form1.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Nivel_2.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Nivel_3.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Nivel_4.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Properties.Resources.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.VictoriaLv3.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Victory1.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.Victory2.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho_2._0.VictoryMultijugador.resources
+C:\Users\bm\Desktop\Cho 2.0\Cho 2.0\obj\x86\Debug\Cho 2.0.csproj.GenerateResource.Cache
